@@ -44,8 +44,8 @@ A Python automation script that logs you into **Assam University Silchar's** "CA
 4. **Install Dependencies**:
    You can either install them manually or create a `requirements.txt` file with the following contents:
    ```txt
-   selenium==4.15.2
-   requests==2.31.0
+   selenium>=4.0.0
+   requests>=2.25.0
    ```
 
 5. **(Optional) Disable Captive Portal Detection**:
@@ -120,4 +120,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ### 🏷️ **Keywords**
 
-`#Python #WiFiAutomation #Selenium #Brave #AUSWiFi #WiFiLogin #Automation #AssamUniversitySilchar`
+`#Python #WiFiAutomation #Selenium #Brave #AUSWiFi #WiFiLogin #Automation #AssamUniversitySilchar #assam #silchar #campusconnect #assmuniversity`
