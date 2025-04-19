@@ -6,12 +6,12 @@ A Python automation script that logs you into **Assam University Silchar's** "CA
 ---
 
 ## 📖 **Table of Contents**
-1. [Features](#features)
-2. [Setup Instructions](#setup-instructions)
-3. [Usage](#usage)
-4. [Configuration](#configuration)
-5. [Disabling Captive Portal Detection](#disabling-captive-portal-detection)
-6. [License](#license)
+1. [Features](#-features)
+2. [Setup Instructions](#-setup-instructions)
+3. [Usage](#-usage)
+4. [Configuration](#-configuration)
+5. [Disabling Captive Portal Detection](#-disabling-captive-portal-detection)
+6. [License](#-license)
 
 ---
 
