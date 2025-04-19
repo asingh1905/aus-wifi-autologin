@@ -32,7 +32,7 @@ A Python automation script that logs you into **Assam University Silchar's** "CA
    ```
 
 2. **Download ChromeDriver**:
-   Download the compatible version of ChromeDriver from [here](https://sites.google.com/a/chromium.org/chromedriver/). Make sure it matches the version of your Brave browser.
+   Download the compatible version of ChromeDriver from [here](https://googlechromelabs.github.io/chrome-for-testing/). Make sure it matches the version of your Brave browser.
 
 3. **Set up Environment Variables**:
    Create environment variables for the following:
