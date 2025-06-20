@@ -1,11 +1,11 @@
 
-# AUS WiFi AutoLogin 🚀
+# AUS WiFi AutoLogin 
 
 A Python automation script that logs you into **Assam University Silchar's** "CAMPUS CONNECT AUS" WiFi network using Selenium and the Brave browser. The script is automatically triggered on WiFi connection via Windows Task Scheduler.
 
 ---
 
-## 📖 **Table of Contents**
+##  **Table of Contents**
 1. [Features](#-features)
 2. [Setup Instructions](#-setup-instructions)
 3. [Usage](#-usage)
@@ -15,7 +15,7 @@ A Python automation script that logs you into **Assam University Silchar's** "CA
 
 ---
 
-## 🚀 **Features**
+##  **Features**
 - Automatically logs into the "CAMPUS CONNECT AUS" WiFi network.
 - Uses **Selenium** with **Brave browser** to automate the login process.
 - Automatically triggered using **Windows Task Scheduler** when connected to the WiFi network.
@@ -23,7 +23,7 @@ A Python automation script that logs you into **Assam University Silchar's** "CA
 
 ---
 
-## 🛠️ **Setup Instructions**
+##  **Setup Instructions**
 
 1. **Install Python dependencies**:
    You'll need to install the required Python libraries.
@@ -56,7 +56,7 @@ A Python automation script that logs you into **Assam University Silchar's** "CA
 
 ---
 
-## ⚙️ **Usage**
+##  **Usage**
 
 Once the setup is complete, you can run the script using the following command:
 
@@ -96,7 +96,7 @@ You can customize the following values in the script for different networks:
 
 ---
 
-## ⚡ **Disabling Captive Portal Detection**
+## **Disabling Captive Portal Detection**
 
 To prevent Windows from auto-opening the captive portal (login page), you can disable the network probing. Run this command in an elevated (Admin) Command Prompt:
 
@@ -112,12 +112,12 @@ reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NlaSvc\Parameters\
 
 ---
 
-## 📝 **License**
+## **License**
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
-### 🏷️ **Keywords**
+###  **Keywords**
 
 `#Python #WiFiAutomation #Selenium #Brave #AUSWiFi #WiFiLogin #Automation #AssamUniversitySilchar #assam #silchar #campusconnect #assmuniversity`
