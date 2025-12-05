@@ -36,10 +36,12 @@ A Python automation script that logs you into **Assam University Silchar's** "CA
 
 3. **Set up Environment Variables**:
    Create environment variables for the following:
-   - `aus_wifi_username`: Your **AUS WiFi username**.
-   - `aus_wifi_password`: Your **AUS WiFi password**.
-   - `BRAVE_BROWSER_PATH`: Full path to the **Brave browser** (e.g., `C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe`).
-   - `CHROME_DRIVER_PATH`: Path to your **ChromeDriver** executable.
+   - `aus_wifi_username`: Your AUS WiFi username.
+   - `aus_wifi_password`: Your AUS WiFi password.
+   - `BRAVE_BROWSER_PATH`: Full path to the Brave browser (e.g., C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe).
+   - `CHROME_DRIVER_PATH`: Path to your ChromeDriver executable.
+   - `FIREFOX_BROWSER_PATH` (optional, only if using Firefox): Full path to the Firefox browser (e.g., C:\Program Files\Mozilla Firefox\firefox.exe).​
+   - `GECKO_DRIVER_PATH` (only if using Firefox): Path to your GeckoDriver executable (e.g., D:\Drivers\geckodriver\geckodriver.exe).​
 
 4. **Install Dependencies**:
    You can either install them manually or create a `requirements.txt` file with the following contents:
